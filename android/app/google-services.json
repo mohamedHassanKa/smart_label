@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "235088368621",
+    "project_id": "smart-label-1946f",
+    "storage_bucket": "smart-label-1946f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235088368621:android:2e76a2ec24df4b00be4de4",
+        "android_client_info": {
+          "package_name": "com.example.archi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235088368621-2g7mg4dcfn82s2i3i90c1rvcl7mru21u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.archi",
+            "certificate_hash": "d09a959f4c8955c96ecccb952bd15903048dd61e"
+          }
+        },
+        {
+          "client_id": "235088368621-evs22hj3e1k03tomrcgprndqhe56g8e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE-ubfghq1AiFh9blHShVjs_b7rqit3o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235088368621-evs22hj3e1k03tomrcgprndqhe56g8e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
